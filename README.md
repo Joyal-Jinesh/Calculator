@@ -83,8 +83,7 @@ This architecture ensures the codebase is modular, testable, and maintainable, m
 The app will be installed and launched on your selected device or emulator, starting with your custom splash screen.
 
 ## Screenshots
-![Image1](https://github.com/user-attachments/assets/744da166-2dcf-4d70-97c3-1f152081c983)   
-![Image2](https://github.com/user-attachments/assets/9e16809a-b2f5-4157-8214-d597689849f4)
+![Image1](https://github.com/user-attachments/assets/744da166-2dcf-4d70-97c3-1f152081c983)   ![Image2](https://github.com/user-attachments/assets/9e16809a-b2f5-4157-8214-d597689849f4)
 
 
 ---
