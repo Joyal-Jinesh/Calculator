@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is the background color of your splash screen. It matches your app's dark theme. -->
+    <item android:drawable="@color/dark_gray_splash_background"/>
+
+    <!-- This is YOUR calculator image, placed in the center. -->
+    <item android:gravity="center">
+        <bitmap
+            android:src="@drawable/my_calculator_icon"
+            android:width = "50dp"
+            android:height = "50dp"
+        />
+    </item>
+</layer-list>

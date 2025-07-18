@@ -1,0 +1,19 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CalculatorApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background. -->
+        <item name="windowSplashScreenBackground">@color/dark_gray_splash_background</item>
+        <!-- Set the splash screen animated icon. -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_background</item>
+        <!-- Keep the icon on screen for a little longer. -->
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <!-- Set the theme of the Activity that will be launched. -->
+        <item name="postSplashScreenTheme">@style/Theme.CalculatorApp</item>
+    </style>
+</resources>
