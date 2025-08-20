@@ -105,6 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions, feedback, or collaborations, feel free to reach out:
 
-* **Joel Joby**
-* **GitHub**: [https://github.com/joeljoby5](https://github.com/joeljoby5)
-* **Email**: [joeljoby724@gmail.com](mailto:joeljoby724@gmail.com)
+* **Joyal Jinesh**
+* **GitHub**: [https://github.com/Joyal-Jinesh](https://github.com/Joyal-Jinesh)
+* **Email**: [joyaljinesh@gmail.com](mailto:joyaljinesh@gmail.com)
